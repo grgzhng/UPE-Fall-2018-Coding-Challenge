@@ -6,5 +6,5 @@ The specification can be found here: https://gist.github.com/austinguo550/381d5e
 
 ## Steps to build
 
-1. yarn add axios
-2. node maze.js
+1. `yarn add axios`
+2. `node maze.js`
